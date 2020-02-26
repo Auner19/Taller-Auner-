@@ -1,1 +1,3 @@
-
+facturar(a,b):
+      precio = (a+b)
+Hello World
